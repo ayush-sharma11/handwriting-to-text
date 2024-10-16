@@ -1,0 +1,4 @@
+easyocr
+Flask
+os
+torch # if you want gpu with EasyOCR
